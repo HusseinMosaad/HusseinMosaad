@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Hussein Mosaad. I breath code.
 
 <!--
 **HusseinMosaad/HusseinMosaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Senior Full Stack Software Developer with over 9 years of intensive work in the Web and Mobile development industry. My knowledge base / experience goes beyond a ‘senior engineer’ because I have a higher understanding of all the connecting pieces and aspects of building large-scale web based applications.
 
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
