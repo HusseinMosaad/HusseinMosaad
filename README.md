@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm a Senior Full Stack Software Developer with over 9 years of intensive work in the Web and Mobile development industry. My knowledge base / experience goes beyond a ‘senior engineer’ because I have a higher understanding of all the connecting pieces and aspects of building large-scale web based applications.
 
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=husseinmosaad&show_icons=true&theme=radical)
+![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=HusseinMosaad&show_icons=true&theme=radical)
